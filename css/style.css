@@ -6,7 +6,27 @@ body {
 	text-align: center;
 }
 
+h2 {
+	font-family: 'Luckiest Guy', cursive;
+	color: #FF9F42;
+}
+
+h3 {
+	font-family: 'Antic', sans-serif;
+	color: #3B92B3;
+}
+
 canvas {
 	border: solid .2em #fff;
 	height: 90vh;
+}
+
+#instructions {
+	font-family: 'Ubuntu Condensed', sans-serif;
+	width: 350px;
+	height: 250px;
+	float: right;
+	margin-right: 120px;
+	margin-top: 50px;
+	color: grey;
 }
